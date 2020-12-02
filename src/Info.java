@@ -187,8 +187,6 @@ public class Info extends JFrame {
                         calAddFrame.setVisible(false);
                         calFrame.setVisible(true);
                         model.updateValues(addInput);
-                        System.out.println(model.getSum());
-
 
                         if (model.getSum() >= finalCalGoal) {
                             JOptionPane.showMessageDialog(null, "Congratulations! You've met your daily calorie goal for today");
