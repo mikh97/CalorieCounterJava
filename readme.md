@@ -12,5 +12,5 @@
 
 #### Here's some of the snapshot of the programs
 
-![Alt text] (Images/UserForm.png?raw=true "User")
+![alt text] (https://github.com/mikh97/CalorieCounterJava/blob/master/Images/Add.jpg?raw=true)
 
