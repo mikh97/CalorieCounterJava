@@ -12,5 +12,9 @@
 
 #### Here's some of the snapshot of the programs
 
-![alt text] (https://github.com/mikh97/CalorieCounterJava/blob/master/Images/Add.jpg?raw=true)
+![User Form](https://github.com/mikh97/CalorieCounterJava/blob/master/Images/UserForm.jpg?raw=true)
+
+![Main](https://github.com/mikh97/CalorieCounterJava/blob/master/Images/Main.jpg?raw=true)
+
+![Add](https://github.com/mikh97/CalorieCounterJava/blob/master/Images/Add.jpg?raw=true)
 
